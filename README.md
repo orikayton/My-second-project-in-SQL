@@ -1,2 +1,3 @@
-# My-second-project-in-SQL
-Second product in SQL from my stady
+
+Second product in SQL from my stady - 
+Solving business questions
